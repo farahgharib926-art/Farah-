@@ -1,0 +1,11 @@
+{
+  "name": "harfi-app",
+  "version": "1.0.0",
+  "description": "Harfi - Trusted Craftsmen Platform",
+  "scripts": {
+    "start": "npx serve public",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["craftsmen", "harfi", "booking"],
+  "license": "MIT"
+}
